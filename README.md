@@ -26,4 +26,5 @@ After the decision by this protocol a wave is selected with different authentica
 ![Image of WaveSchema](https://github.com/semihyonet/Waves/blob/master/Images/WAVE%20SCHEMA.png)
 
 
-![Video of Waves](https://github.com/semihyonet/Waves/blob/master/Videos/Example1.mov)
+![Video of Waves 1](https://github.com/semihyonet/Waves/blob/master/Videos/Example1.mov)
+![Video of Waves 2](https://github.com/semihyonet/Waves/blob/master/Videos/Example2.mov)
